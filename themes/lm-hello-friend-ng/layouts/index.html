@@ -1,0 +1,17 @@
+{{ define "main" }}
+    <main aria-role="main">
+        <div>
+            <center><img src="/img/logo.png" /></center>
+            <h1>{{ .Site.Title }}</h1>
+
+            {{- with .Site.Params.homeSubtitle }}
+                <p>{{.}}</p>
+            {{- end }}
+
+            <div>
+              Our current main project:
+                <div><a href="https://www.gridify.org">The Grid protocol</a></div>
+            </div>
+        </div>
+    </main>
+{{ end }}

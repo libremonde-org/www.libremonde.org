@@ -1,0 +1,53 @@
+baseurl = "/"
+languageCode = "en"
+theme = "lm-hello-friend-ng"
+
+title = "Libre Monde"
+
+[params]
+  dateform        = "Jan 1, 2000"
+  dateformShort   = "Jan 1"
+  dateformNum     = "2000-01-01"
+  dateformNumTime = "2000-01-01 00:00 +0000"
+
+  # Metadata mostly used in document's head
+  description     = "Libre Monde homepage"
+  keywords        = "libre monde, non-profit, foss, privacy, gdpr"
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+
+  # Default theme "light" or "dark"
+  defaultTheme    = "light"
+
+  # Front page config
+  homeSubtitle    = "Working towards a world where your data is protected and cared for"
+
+[[params.social]]
+   name = "email"
+   url  = "mailto:hello@libremonde.org"
+
+[[params.social]]
+  name = "gitlab"
+  url  = "https://gitlab.com/libremonde-org"
+
+[[params.social]]
+  name = "github"
+  url  = "https://github.com/libremonde-org/"
+
+[menu]
+  [[menu.main]]
+    identifier = "mission"
+    name       = "Mission"
+    url        = "/mission/"
+    weight     = 1
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about/"
+    weight     = 2
+  [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact/"
+    weight     = 3
