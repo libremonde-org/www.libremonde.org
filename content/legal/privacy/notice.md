@@ -29,11 +29,12 @@ To be able to use your rights, you need to have the following information:
 
 This is us:
 
-- Trade name: Libre Monde ASBL
-- Also known as: Libre Monde, libremonde.org
-- [R.C.S. Number](https://www.lbr.lu/mjrcs): F12030
+- Legal name: Libre Monde ASBL
+- Legal form: Nonprofit organization
+- Also known as: Libre Monde, libremonde.org, libremonde-org
+- [R.C.S.](https://www.lbr.lu/mjrcs) Number: F12030
 
-Our registered address is:
+Our head office address is:
 
 - Route d'Arlon, 14  
 - 8410 Steinfort  
@@ -49,9 +50,11 @@ For all your privacy needs, you can use our dedicated Email address: [legalmaste
 
 **You have the right to contact us by any means you see fit that we give on this website, regardless of what we prefer you to use.  We take every request seriously. You do not have to sound smart when talking to us, we will treat you as the most important person in the room regardless.**
 
-For any request involving personal data, we must be able to identify you. In your request, please include the Identity/Address/ID/Name that identify you. We will contact you using that Identity, confirm that the request did come from the individual controlling the identifier, and proceed with the request.
+## Data requests
 
-We cannot act on those requests if we cannot identify you. We must be sure that  you are indeed the individual to which the data belongs to. If you no longer have access to the identifier you want to use, let us know and we will do our best to try to identify you another way, if we can.
+For any request involving personal data, we must be able to identify you. In your request, please include the Identity/Address/ID/Name that identifies you. We will contact you using that Identity, confirm that the request did come from the individual controlling the identifier, and proceed with the request.
+
+We cannot act on those requests if we cannot identify you, as we must be sure that you are the individual to which the data belongs to. If you no longer have access to the identifier you want to use, let us know and we will do our best to try to identify you another way, if possible at all.
 
 ## About your data
 
