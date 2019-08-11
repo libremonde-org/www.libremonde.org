@@ -29,9 +29,9 @@ To be able to use your rights, you need to have the following information:
 
 This is us:
 
-- Legal name: Libre Monde ASBL
-- Legal form: Nonprofit organization
-- Also known as: Libre Monde, libremonde.org, libremonde-org
+- Legal name: Libre Monde
+- Legal form: Association Sans But Lucratif (Nonprofit organization)
+- Also known as: Libre Monde ASBL, libremonde.org, libremonde-org
 - [R.C.S.](https://www.lbr.lu/mjrcs) Number: F12030
 
 Our head office address is:
