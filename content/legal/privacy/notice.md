@@ -60,7 +60,7 @@ We cannot act on those requests if we cannot identify you, as we must be sure th
 
 ### Our mindset
 
-Privacy is a founding value for our organisation, and we want to ensure individuals are safe, protected, and that their rights are respected. **Your privacy is our business model.**
+Privacy is a founding value of our organisation, and we want to ensure individuals are safe, protected, and that their rights are respected. **Your privacy is our social purpose.**
 
 Laws are different in each country, and you might not be able to use GDPR rights as they do not apply to you, but still want to contact us or use our services. We will explain our mindset and our practices so you can make an informed choice.
 
@@ -76,7 +76,7 @@ We will only process data we know was gathered in a lawful way. If we ever come 
 
 We never share your personal data unless we are legally forced to. Ever. We never sell your data. Ever. **Your personal data is highly valuable. Be sure nobody collects more than they strictly need to do.**
 
-In the event that this organisation or any of its assets changes owner(s), we will delete any (potential) personal data we have before doing the ownership transfer. **Your data is not our business model.**
+In the event that this organisation or any of its assets changes owner(s), we will delete any (potential) personal data we have before doing the ownership transfer. **Your data is not how this organisation is founded.**
 
 ### On any of our websites
 
@@ -88,6 +88,8 @@ If a part of our website has a configurable feature that is to be saved across r
 
 If parts of our websites have different needs, they will have their own privacy notice. We will make it visually and technically clear that you are in another part of the website: a different layout, or different sub-domain, another colour theme, or anything else which is relevant. We may also combine any number of those.
 
+In case hosting with another entity is needed for a specific kind of resource, per example for downloadable files, we will not use the same base domain as the content you are viewing at that time. We will give an explicit indication that it is the case in the wording surrounding the link, per example "*You can find this file on Gitlab*". We want to clearly indicate that the request will be made on another server, which could be invisible to you.
+
 **We want to always give you explicit signs and messages of what is happening, and that your personal data may be used. We do not assume we know what you want, or know what you expect.**
 
 ### On any server of those websites
@@ -97,29 +99,32 @@ For each request made, we keep a record of the following information:
 - The [IP address](https://en.wikipedia.org/wiki/IP_address)
 - The [HTTP Header](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields) User-Agent
 
-None of those are direct identifiers. The IP address is about your internet connection, and the HTTP header is about your browser. While they do not directly identify you, they can be put together with other data to that end. Be aware that some organisations use them to track you or identify you.
+The IP address is about your internet connection, and the HTTP header is about your browser. While they do not directly identify you, they can be put together with other data to that end. Be aware that some organisations use them to track you or identify you.
 
-We collect this data for two purposes:
+As per [Article 11(2)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0679-20160504), we inform you that this data is not personal data to us: we cannot identify individuals with it, and we do not collect any other non-personal data that could allow us to identify individuals if used together.
 
-- To keep ourselves and our users safe, we need to be able to detect patterns of malicious activity, and block the source of it. We generate statistics, trends and visualisation of that traffic to that end. For this, we use the IP address and HTTP Header.
-- To keep ourselves reachable and visible, we need to know which browsers try to use our website and try if it will display correctly in them. For this, we use the HTTP Header.
+Even if it is not personal data, we want to be transparent and inform you how we use this data.  
+We collect it for two purposes:
 
-This data is not personal data to us: we simply cannot identify individuals with it alone. We do not collect any other information that could be used to that end.
-
-In case another type of hosting is needed for a specific resource, per example for downloadable files, we will not use the same base domain as the content you are viewing at that time. We will give an explicit indication that it is the case in the wording surrounding the link, per example "*You can find this file on Gitlab*". We want to clearly indicate that the request will be made on another server, which could be invisible to you in case of file downloading per example. This policy will not apply to regular Web links, where we point to another website page for regular viewing, like Wikipedia.
+- To keep ourselves and our users safe: we need to be able to detect patterns of malicious activity, and block the source of it. We generate statistics, trends and visualisation of that traffic to that end. For this, we use the IP address and HTTP Header.
+- To keep ourselves reachable and visible: we need to know which browsers are used to visit our website and check that it is displayed properly in them. For this, we use the HTTP Header.
 
 ### Via our contact services
 
 We provide contact services, like Email, that you can use to interact with us. These services are only accessible by using another service provider, or by connecting directly to them yourself. These services accept any kind of data, which you made the explicit choice to send for whatever intent you had.
 
 The lawful basis for that processing is: **Legitimate Interest**.  
-You made the explicit choice to send us the data, and you want us to use the data you sent.
+You made the explicit choice:
+
+- To send us the data.
+- Of the format you sent it in.
+- To have it processed, being the purpose for sending it.
 
 We do not have fixed retention periods for those services: we do not know in advance what will be sent to us and for how long we would need to keep it. In regards of your rights, you should consider we never delete this data.
 
 **If you include personal data of other individuals (us included) in your communication, this privacy notice will equally apply towards them, as they have the same rights as you do**. It is very likely that you will not be able to use some of your rights then: it could prevent those other individuals to use their own rights to access and control that personal data.
 
-If you request access to your data, we will simply give back to you what you sent, in the format you chose to send it in. We will also provide any metadata associated with it in a common, machine-readable format, usually [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) or [JSON](https://en.wikipedia.org/wiki/JSON).
+If you request access to your data, we will simply give back to you what you sent, in the format you chose to send it in which you deemed appropriate at the time. We will also provide any metadata associated with it in a common, machine-readable format, usually [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) or [JSON](https://en.wikipedia.org/wiki/JSON).
 
 ### Any other service
 
